@@ -17,3 +17,5 @@ Ana ekranda kategoriler liste şeklindedir.Ve her kategoriye ait genel bilgilerd
 Her kategorinin içeriğinde puanlama ve yorumlama kısmı yer almaktadır. Böylelikle kullanıcı gezmek isteyeceği yerler hakkında değerlendirme yapabilir.
 
 Kullanıcıların en yüksek puanladığı kategoriler favoriler adında bir sayfaya atanacaktır.
+
+![odevvideo_](https://user-images.githubusercontent.com/79581764/172881493-a92c1030-a95d-48a9-b9a6-fcc05ee0da2e.gif)
