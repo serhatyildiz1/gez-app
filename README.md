@@ -1,4 +1,4 @@
-Projeyi hazırlayanlar: -Kübra Selçuk -Zehra Abuşak -Batuhan Berk Karadere -Serhat Yıldız
+Projeyi hazırlayanlar: Serhat Yıldız
 
 Merhaba Kırklareli Gezi Uygulamasına Hoşgeldiniz.
 
